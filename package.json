@@ -1,0 +1,25 @@
+{
+  "name": "hw3-communication-",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherwilliamflores/HW3-communication-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherwilliamflores/HW3-communication-/issues"
+  },
+  "homepage": "https://github.com/christopherwilliamflores/HW3-communication-#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}

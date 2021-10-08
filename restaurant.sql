@@ -8,3 +8,7 @@ CREATE TABLE menu(
 //Inserts 
 INSERT INTO menu(nombreplato, precio) VALUES("Aji de gallina",30);
 INSERT INTO menu(nombreplato, precio) VALUES("Arroz con pollo",25);
+
+//Consulta
+SELECT nombreplato, precio
+FROM menu;
