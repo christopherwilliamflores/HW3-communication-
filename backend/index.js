@@ -16,8 +16,8 @@ function getMembers(req,res){
     //Step 0 : Definir la conexion a la BD 
     var connection = mysql.createConnection({
         host: 'localhost',
-        user: 'christopher',
-        password: '5426212' ,
+        user: 'utec',
+        password: '1234567890' ,
         database: 'restaurant'
     });
     //Step 1 : Establecer la conexion
